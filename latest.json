@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "releaseDateUtc": "2026-03-10T00:00:00Z",
-  "installerUrl": "https://github.com/hugouchoasborges/meeting-focus-releases/releases/download/v0.1.0/MeetingAttentionFilter-Setup.exe",
-  "installerSha256": "REPLACE_AFTER_FIRST_RELEASE",
-  "releaseNotesUrl": "https://github.com/hugouchoasborges/meeting-focus-releases/releases/tag/v0.1.0"
+  "version": "0.1.0a",
+  "releaseDateUtc": "2026-03-10T03:30:00Z",
+  "installerUrl": "https://github.com/hugouchoasborges/meeting-focus-releases/releases/download/v0.1.0a/MeetingAttentionFilter-Setup.exe",
+  "installerSha256": "648FBED2F133C9286A99A168CCA4EE73FCC08FDD6CEF04F8EA9F11926AE01E4C",
+  "releaseNotesUrl": "https://github.com/hugouchoasborges/meeting-focus-releases/releases/tag/v0.1.0a"
 }
